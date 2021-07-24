@@ -1,0 +1,9 @@
+# Japan events by indvst
+
+add_namespace = japan
+add_namespace = japd
+add_namespace = japfor
+add_namespace = japdem
+add_namespace = japmil
+add_namespace = japannews
+
